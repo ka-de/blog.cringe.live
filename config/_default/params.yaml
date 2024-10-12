@@ -14,10 +14,10 @@ marketing:
     site_type: Person
     local_business_type: ''
     org_name: ''
-    description: 'A highly-customizable Hugo blog theme powered by Hugo Blox Builder.'
-    twitter: 'GetResearchDev'
+    description: 'My humble blog.'
+    twitter: '_ka_de'
   analytics:
-    google_analytics: ''
+    google_analytics: '462786714'
     baidu_tongji: ''
     plausible: ''
     fathom: ''
@@ -36,9 +36,9 @@ header:
 # Site footer
 footer:
   copyright:
-    notice: '© {year} Me. This work is licensed under {license}'
+    notice: '© {year} Balazs Horvath | All right reserved.'
     license:
-      enable: true
+      enable: false
       allow_derivatives: false
       share_alike: true
       allow_commercial: false
@@ -51,10 +51,10 @@ locale:
 # Site features
 features:
   math:
-    enable: false
+    enable: true
   privacy_pack:
     enable: false
   repository:
-    url: 'https://github.com/HugoBlox/hugo-blox-builder/'
+    url: 'https://github.com/ka-de/blog.cringe.live/'
     content_dir: starters/blog/content
     branch: main
