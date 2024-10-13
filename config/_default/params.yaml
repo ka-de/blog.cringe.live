@@ -56,5 +56,5 @@ features:
     enable: false
   repository:
     url: 'https://github.com/ka-de/blog.cringe.live/'
-    content_dir: starters/blog/content
+    content_dir: /content
     branch: main
