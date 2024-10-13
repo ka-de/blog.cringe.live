@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Cosmology | blog.cringe.live</title><link>http://localhost:1313/category/cosmology/</link><atom:link href="http://localhost:1313/category/cosmology/index.xml" rel="self" type="application/rss+xml"/><description>Cosmology</description><generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sat, 29 Jun 2024 11:49:11 +0200</lastBuildDate><image><url>http://localhost:1313/media/icon_hu7729264130191091259.png</url><title>Cosmology</title><link>http://localhost:1313/category/cosmology/</link></image><item><title>Stars: The Cosmic Brokers</title><link>http://localhost:1313/blog/cosmic-brokers/</link><pubDate>Sat, 29 Jun 2024 11:49:11 +0200</pubDate><guid>http://localhost:1313/blog/cosmic-brokers/</guid><description>&lt;p>Did you know that every atom in your body was once part of a star? Stars, the celestial powerhouses that dot our night sky, play a crucial role as the brokers of elements in the universe.&lt;/p>
+&lt;h2 id="the-stellar-forge">The Stellar Forge&lt;/h2>
+&lt;hr>
+&lt;p>Stars begin their lives as vast clouds of hydrogen and helium, the primordial elements forged in the Big Bang. Through gravitational collapse, these clouds condense into protostars that eventually ignite into full-fledged stars. The nuclear fusion reactions that power stars are the first step in their role as element brokers.&lt;/p>
+&lt;p>The primary fusion reaction in most stars is the proton-proton chain. This reaction, which occurs at temperatures above 4 million degrees Celsius, combines four hydrogen nuclei to form one helium nucleus, releasing a tremendous amount of energy in the process. This energy is what makes stars shine.&lt;/p>
+$$
+E_\text{supernova} \approx 10^{44} , \text{J}
+$$&lt;p>This energy is sufficient to synthesize and distribute heavy elements throughout space. The shock waves and extreme conditions during a supernova enable rapid neutron capture processes (r-process), producing elements heavier than iron, including gold, platinum, and uranium.&lt;/p>
+&lt;p>The material ejected from supernovae enriches the interstellar medium with heavy elements. This enriched material then becomes part of new star-forming regions, continuing the cycle of element brokerage. The mass ejected in a typical supernova can be estimated using:
+&lt;/p>
+$$
+M_\text{ejected} = M_\text{initial} - M_\text{remnant}
+$$&lt;p>In more massive stars, where temperatures exceed 15 million degrees Celsius, the CNO cycle becomes dominant. This cycle involves carbon, nitrogen, and oxygen as catalysts to convert hydrogen into helium.&lt;/p>
+$$
+\begin{aligned}
+^{12}\text{C} + ^1\text{H} &amp;\rightarrow ^{13}\text{N} + \gamma \\
+^{13}\text{N} &amp;\rightarrow ^{13}\text{C} + e^+ + \nu_e \\
+^{13}\text{C} + ^1\text{H} &amp;\rightarrow ^{14}\text{N} + \gamma \\
+^{14}\text{N} + ^1\text{H} &amp;\rightarrow ^{15}\text{O} + \gamma \\
+^{15}\text{O} &amp;\rightarrow ^{15}\text{N} + e^+ + \nu_e \\
+^{15}\text{N} + ^1\text{H} &amp;\rightarrow ^{12}\text{C} + ^4\text{He}
+\end{aligned}
+$$&lt;p>As stars age, they progress through various stages of nuclear fusion, synthesizing progressively heavier elements. This process, known as stellar nucleosynthesis, is the primary means by which the universe creates elements heavier than helium. The general equation for nuclear fusion can be expressed as:&lt;/p>
+$$
+_Z^A\text{X} + _Z^A\text{Y} \rightarrow _{Z+Z'}^{A+A'}\text{W} + \text{energy}
+$$&lt;p>Where $X$ and $Y$ are the initial nuclei, $W$ is the resulting nucleus, $Z$ is the atomic number, and $A$ is the mass number.&lt;/p>
+&lt;p>In the cores of massive stars, temperatures and pressures become high enough to fuse elements up to iron (Fe). The production of elements beyond iron requires energy input rather than release, which occurs during supernova explosions.&lt;/p>
+&lt;h2 id="cosmic-distribution">Cosmic Distribution&lt;/h2>
+&lt;hr>
+&lt;p>When massive stars exhaust their fuel, they explode in spectacular supernovae. These cosmic explosions are crucial to the role of stars as element brokers. The energy released in a supernova is immense, typically around $10^{44}$ joules. This energy is sufficient to synthesize and distribute heavy elements throughout space.&lt;/p>
+$$
+E_\text{supernova} \approx 10^{44} \, \text{J}
+$$&lt;p>The shock waves and extreme conditions during a supernova enable rapid neutron capture processes (r-process), producing elements heavier than iron, including gold, platinum, and uranium. The material ejected from supernovae enriches the interstellar medium with heavy elements. This enriched material then becomes part of new star-forming regions, continuing the cycle of element brokerage.&lt;/p>
+&lt;p>The mass ejected in a typical supernova can be estimated using:&lt;/p>
+$$
+M_\text{ejected} = M_\text{initial} - M_\text{remnant}
+$$&lt;p>Where $M_\text{initial}$ is the mass of the star before the supernova, and $M_\text{remnant}$ is the mass of the resulting neutron star or black hole.&lt;/p>
+&lt;p>Over cosmic timescales, this process leads to a gradual increase in the metallicity of the universe. The metallicity, $Z$, is defined as the fraction of elements heavier than helium:&lt;/p>
+$$
+Z = 1 - (X + Y)
+$$&lt;p>Where $X$ is the mass fraction of hydrogen and $Y$ is the mass fraction of helium.&lt;/p>
+&lt;p>Through their life cycles, from birth to supernova, stars accumulate, transform, and distribute matter across vast distances and timescales. This cosmic alchemy has shaped the chemical evolution of the universe. As generations of stars have lived and died, they have progressively enriched the cosmos with heavier elements, leading to increasing complexity in the universe.&lt;/p></description></item></channel></rss>
