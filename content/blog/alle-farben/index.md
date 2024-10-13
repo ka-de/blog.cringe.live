@@ -138,7 +138,7 @@ for sheet in workbook:
             data[color_value] = color_name  # Reversed order
 ```
 
-Now be a good machine an take those hexadecimal color values from column A and convert them to RGB and HSL values, making whoever entered them manually feel irrelevant at his work:
+Now be a good machine and take those hexadecimal color values from column A and convert them to RGB and HSL values, making whoever entered them manually feel irrelevant at his work:
 
 ```python
 import openpyxl
